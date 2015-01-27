@@ -1,2 +1,5 @@
-# none-syntax
-None Syntax theme for Atom
+# None Syntax theme for Atom
+
+> Warning! Don't use for real
+
+This theme has **no** styling. It's only meant for testing Atom "theme-less".

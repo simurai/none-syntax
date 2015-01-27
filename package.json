@@ -1,0 +1,11 @@
+{
+  "name": "none-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "None Syntax theme for Atom",
+  "repository": "https://github.com/simurai/none-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
